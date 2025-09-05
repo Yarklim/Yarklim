@@ -13,7 +13,7 @@ Middle Full-Stack Engineer (Next.js / NestJS) focused on **scalable, secure, hig
 - **Architecture & Data:** domain modeling (carriers, routes/trips, locations/stations, currencies, translations); advanced indexing and cascade rules in PostgreSQL with Prisma.
 - **Performance:** Redis caching and rate limiting, hot-path optimization & batching; p95/p99 latency as core KPIs.
 - **Reliability & Queues:** BullMQ jobs (retries, backoff, DLQ), idempotency, observability/structured logging.
-- **Security:** JWT in httpOnly cookies, rotation & session invalidation, CSRF, RBAC, throttling.
+- **Security:** JWT in HttpOnly cookies, rotation & session invalidation, CSRF, RBAC, throttling.
 - **Frontend:** Next.js + TypeScript + Tailwind, i18n routing, SEO, accessible UI; internal CMS/CRM admin.
 - **DevOps:** Docker, GitHub Actions CI/CD, Vercel/Render; health/readiness probes, diagnostics.
 
