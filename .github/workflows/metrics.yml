@@ -1,0 +1,30 @@
+name: profile-metrics
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 6 * * 1" 
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          user: Yarklim
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Europe/Kyiv
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+          plugin_lines: yes
+      - name: Store metrics
+        uses: actions/upload-artifact@v4
+        with:
+          name: metrics
+          path: metrics.svg
+      - name: Commit metrics
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "metrics.svg"
+          message: "chore: update metrics"
