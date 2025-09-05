@@ -29,3 +29,5 @@ Middle Full-Stack Engineer (Next.js / NestJS) focused on **scalable, secure, hig
 ## Contact
 **LinkedIn:** https://www.linkedin.com/in/yaroslav-klimas-956532267/
 
+## GitHub Metrics
+![GitHub metrics](./assets/metrics.svg)
