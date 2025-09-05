@@ -15,7 +15,6 @@ Middle Full-Stack Engineer (Next.js / NestJS) focused on **scalable, secure, hig
 - **Reliability & Queues:** BullMQ jobs (retries, backoff, DLQ), idempotency, observability/structured logging.
 - **Security:** JWT in HttpOnly cookies, rotation & session invalidation, CSRF, RBAC, throttling.
 - **Frontend:** Next.js + TypeScript + Tailwind, i18n routing, SEO, accessible UI; internal CMS/CRM admin.
-- **DevOps:** Docker, GitHub Actions CI/CD, Vercel/Render; health/readiness probes, diagnostics.
 
 ---
 
