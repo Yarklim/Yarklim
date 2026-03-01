@@ -7,7 +7,7 @@ Middle Full-Stack Engineer (Next.js / NestJS) focused on **scalable, secure, hig
 ---
 
 ## Current Role
-**Solution Architect • Tech Lead • Middle Full-Stack Engineer — International Passenger Transportation Platform (B2C/B2B, high-load))**  
+**Solution Architect • Tech Lead • Middle Full-Stack Engineer — International Travel Distribution System (B2C/B2B, high-load))**  
 **Aug 2024 — Present**
 
 - **Architecture & Data:** domain modeling (carriers, routes/trips, locations/stations, currencies, translations); advanced indexing and cascade rules in PostgreSQL with Prisma.
