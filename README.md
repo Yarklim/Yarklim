@@ -1,6 +1,6 @@
-# Yaroslav Klimas — Full-Stack Engineer / Solution Architect
+# Yaroslav Klimas — Software Engineer (Full Stack) / Solution Architect
 
-Middle Full-Stack Engineer (Next.js / NestJS) focused on **scalable, secure, high-load** web platforms. I design robust backends (PostgreSQL + Prisma, Redis, BullMQ, Worker Threads) and fast, accessible frontends (React / Next.js, TypeScript, Tailwind). My sweet spots are **system design, reliability, performance, security, and clean developer experience**.
+Software Engineer (Full Stack) (Next.js / NestJS) focused on **scalable, secure, high-load** web platforms. I design robust backends (PostgreSQL + Prisma, Redis, BullMQ, Worker Threads) and fast, accessible frontends (React / Next.js, TypeScript, Tailwind). My sweet spots are **system design, reliability, performance, security, and clean developer experience**.
 
 > **Note:** All production projects are hosted in **private repositories**. Public repos contain templates, utilities, and case studies only.
 
